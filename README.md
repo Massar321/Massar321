@@ -53,6 +53,9 @@ Currently exploring **DBT, Airflow, Airbyte, Azure, AWS, Snowflake** ☁️
   <a href="https://www.udemy.com/user/massar-mahamat-2/" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white">
   </a>
+  <a href="https://www.youtube.com/@Massar_Formation" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
   <a href="mailto:massar.mhd.ali@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
