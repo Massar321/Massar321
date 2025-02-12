@@ -38,9 +38,10 @@ Currently exploring **DBT, Airflow, Airbyte, Azure, AWS, Snowflake** ☁️
 </p>
 
 ## 🚀 Current Projects
-🔹 **[https://www.udemy.com/course/initiation-a-la-business-intelligence/](#)** - Description courte  
-🔹 **[Nom du projet 2](#)** - Description courte  
-🔹 **[Nom du projet 3](#)** - Description courte  
+🔹 **Sales Performance Dashboard** - Analyse des KPI de ventes avec Power BI  
+🔹 **Customer Churn Prediction** - Modèle prédictif pour détecter l’attrition client  
+🔹 **Data Pipeline Automation** - Automatisation ETL pour un Data Warehouse e-commerce  
+
 
 ## 🌎 Connect With Me  
 <p align="left">
