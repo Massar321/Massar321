@@ -38,7 +38,7 @@ Currently exploring **DBT, Airflow, Airbyte, Azure, AWS, Snowflake** ☁️
 </p>
 
 ## 🚀 Current Projects
-🔹 **[Nom du projet 1](#)** - Description courte  
+🔹 **[https://www.udemy.com/course/initiation-a-la-business-intelligence/](#)** - Description courte  
 🔹 **[Nom du projet 2](#)** - Description courte  
 🔹 **[Nom du projet 3](#)** - Description courte  
 
