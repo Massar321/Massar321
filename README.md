@@ -59,7 +59,7 @@ Currently exploring **DBT, Airflow, Airbyte, Azure, AWS, Snowflake** ☁️
   <a href="mailto:massar.mhd.ali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://mon-site.com" target="_blank">
+  <a href="[https://mon-site.com](https://massar321.github.io/Blog/)" target="_blank">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=internetexplorer&logoColor=white">
   </a>
 </p>
