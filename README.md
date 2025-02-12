@@ -47,6 +47,9 @@ Currently exploring **DBT, Airflow, Airbyte, Azure, AWS, Snowflake** ☁️
   <a href="https://www.linkedin.com/in/mahamat-ali-massar-9a7a81116/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://gitlab.com/Massar321" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
   <a href="https://github.com/Massar321" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
