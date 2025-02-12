@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, Welcome!</h1>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x250" alt="Banner Image">
+  <img src="![Image](https://github.com/user-attachments/assets/1956065a-85e4-4e7b-99a5-9b17719c791d)" alt="Banner Image">
 </div>
 
 ## 🌟 About Me
